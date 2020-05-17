@@ -1,6 +1,6 @@
 # Social Meta Tags
 
-A C# library to get social meta tags like Twitter card information and Facebook OpenGraph for a url.
+A C# library to get social meta tags like Twitter card information and Facebook OpenGraph for a url that uses HtmlAgilityPack.
 
 ### Prerequisites
 
@@ -23,7 +23,3 @@ I have some basic tests written in MSTest. You can run the test similar to how y
 ## Authors
 
 * **Ramkarthik Krishnamurthy** - [Ramkarthik Krishnamurthy](https://ramkarthik.dev)
-
-## License
-
-This project is licensed under the MIT License.
