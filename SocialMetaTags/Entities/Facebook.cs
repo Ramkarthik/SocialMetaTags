@@ -6,7 +6,7 @@ namespace SocialMetaTags
     {
         public string Url { get; }
         public string Title { get; }
-        public string SiteName { get; set; }
+        public string SiteName { get; }
         public string Description { get; }
         public string Image { get; }
         public string ImageType { get; }
